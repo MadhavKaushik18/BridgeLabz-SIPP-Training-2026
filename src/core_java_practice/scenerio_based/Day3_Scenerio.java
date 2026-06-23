@@ -1,4 +1,4 @@
-package core_java_practice.gcr_codebase.Arrays_practices;
+package core_java_practice.scenerio_based;
 import java.util.HashSet;
 import java.util.Scanner;
 

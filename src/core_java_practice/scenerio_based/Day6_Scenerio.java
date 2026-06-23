@@ -1,4 +1,4 @@
-package core_java_practice.gcr_codebase.Recursion_Practice;
+package core_java_practice.scenerio_based;
 
 public class Day6_Scenerio {
 

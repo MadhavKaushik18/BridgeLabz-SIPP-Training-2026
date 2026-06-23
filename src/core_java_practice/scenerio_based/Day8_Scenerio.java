@@ -1,7 +1,6 @@
-package core_java_practice.gcr_codebase.Java_I.O;
+package core_java_practice.scenerio_based;
 
 import java.io.*;
-import java.util.Scanner;
 
 public class Day8_Scenerio {
     public static void main(String[] args) {

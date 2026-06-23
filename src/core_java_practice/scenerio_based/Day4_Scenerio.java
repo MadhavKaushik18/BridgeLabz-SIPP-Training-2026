@@ -1,4 +1,4 @@
-package core_java_practice.gcr_codebase.String_practices;
+package core_java_practice.scenerio_based;
 import java.util.Scanner;
 import java.util.Arrays;
 public class Day4_Scenerio {

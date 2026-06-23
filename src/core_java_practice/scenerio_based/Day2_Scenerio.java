@@ -1,4 +1,4 @@
-package core_java_practice.gcr_codebase.control_flow;
+package core_java_practice.scenerio_based;
 import java.util.Scanner;
 
 public class Day2_Scenerio {

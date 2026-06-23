@@ -1,4 +1,4 @@
-package core_java_practice.gcr_codebase.Method_practice;
+package core_java_practice.scenerio_based;
 
 public class Day5_Scenerio {
     public static void main(String[] args) {
